@@ -7,6 +7,7 @@ import androidx.lifecycle.LiveData;
 
 import java.util.List;
 
+/*The Repository provides an Abstraction Layer on top of tge different data Sources*/
 public class NoteRepository {
     private NoteDao noteDao;
     private LiveData<List<Note>> allNotes;
