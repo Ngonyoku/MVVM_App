@@ -1,4 +1,4 @@
-package com.pluralsight_course.mvvmapp;
+package com.Rick_Projects.mvvmapp;
 
 import org.junit.Test;
 
